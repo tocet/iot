@@ -1,4 +1,4 @@
-#include<WiFi.h>
+#include <ESP8266WiFi.h>
 #define BAUDRATE 115200
 
 const char* ssid = "Laboratorium-IoT";
